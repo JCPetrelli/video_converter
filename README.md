@@ -10,7 +10,12 @@ This Python project contains scripts to convert video files to the Hap codec for
 
 ## Installation
 
-1. Install FFmpeg on your system. You can download it from [FFmpeg's official website](https://ffmpeg.org/download.html).
+1. Install FFmpeg on your system. You can either:
+   - Download it from [FFmpeg's official website](https://ffmpeg.org/download.html), or
+   - Install it using Homebrew (on macOS) by running the following command in your terminal:
+     ```
+     brew install ffmpeg
+     ```
 
 2. Install the required Python library:
 
